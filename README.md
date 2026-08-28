@@ -1,4 +1,4 @@
-#	Chinook	Business	Analysis	—	Data	Analyst	Internship	Task	3
+#	Chinook	Business	Analysis	—	Data	Analyst	Task	
 ##	Overview
 End-to-end	business	analysis	of	the	Chinook	digital	media	store	database,	using
 SQL	for	data	extraction,	Python/Pandas	for	analysis	and	visualization,	and	Power	BI
