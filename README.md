@@ -7,7 +7,7 @@ for	interactive	dashboard	reporting.
 Answer	key	business	questions	about	revenue,	customers,	products,	and	time-based
 trends	to	support	data-driven	decision-making.
 ##	Dataset
-Chinook	SQLite	Database	(`data/Chinook_Sqlite.sqlite`), a	fictional	digital	media
+Chinook	SQLite	Database	(`Chinook_Sqlite.sqlite`), a	fictional	digital	media
 store	containing	customers,	invoices,	tracks,	albums,	artists,	genres,	and	employees.
 Source:	Chinook	SQLite	Database	-	GitHub.
 ##	Tools
@@ -18,7 +18,7 @@ geography,	and	time-based	trends.	Concepts	used:	SELECT,	WHERE,	GROUP	BY,	ORDER	
 HAVING,	JOIN,	SUM,	AVG,	COUNT,	CASE,	CTE,	and	subqueries.
 ##	Python	Analysis
 'analysis.ipynb'	loads	every	SQL	query	into	Pandas	DataFrames	and	produces
-6	visualizations	(saved	in	`visualizations/`):
+6	visualizations	(saved	in	`visualizations`):
 1.	Revenue	by	Country
 2.	Top	10	Customers
 3.	Revenue	by	Genre
